@@ -11,7 +11,7 @@ Line 2  Choice C
 Output Format 
  Sum or product according to user's choice
 Constraints 
-1 = N = 12
+1<= N <= 12
 Sample Input 1 
 10
 1
